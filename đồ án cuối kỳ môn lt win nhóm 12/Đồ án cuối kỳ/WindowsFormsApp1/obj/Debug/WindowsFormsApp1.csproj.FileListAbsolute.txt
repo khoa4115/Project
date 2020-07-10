@@ -1,0 +1,154 @@
+D:\007\C#\kh2_2019-2020\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\007\C#\kh2_2019-2020\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\007\C#\kh2_2019-2020\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\007\C#\kh2_2019-2020\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\007\C#\kh2_2019-2020\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.QuanLyFile.resources
+D:\007\C#\kh2_2019-2020\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\007\C#\kh2_2019-2020\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\007\C#\kh2_2019-2020\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\007\C#\kh2_2019-2020\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.QuanLyFile.resources
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Views.QuanLyFile.resources
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Views.QuanLyFile.resources
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Views.QuanLyFile.resources
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\G7\Desktop\Đồ án cuối kỳ - Copy - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Views.QuanLyFile.resources
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Views.QuanLyFile.resources
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\G7\Desktop\Đồ án cuối kỳ môn lt Win - Copy\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Information.resources
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Information.resources
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Views.QuanLyFile.resources
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\G7\Desktop\đồ án cuối kỳ môn lt win nhóm 12\Đồ án cuối kỳ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
